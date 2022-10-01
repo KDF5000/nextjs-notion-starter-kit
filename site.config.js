@@ -19,8 +19,8 @@ module.exports = {
   // social usernames (optional)
   zhihu: 'kong-de-fei',
   github: 'KDF5000',
-  twitter: '',
-  linkedin: '',
+  twitter: 'kongdefei',
+  linkedin: 'kongdefei',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
