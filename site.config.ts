@@ -18,7 +18,7 @@ export default siteConfig({
 
   // social usernames (optional)
   twitter: 'kongdefei',
-  github: 'kongdefei',
+  github: 'KDF5000',
   linkedin: 'kongdefei',
   zhihu: 'kong-de-fei',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
